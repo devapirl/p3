@@ -1,0 +1,1198 @@
+C:\Users\KB\Desktop\c\3 project\3 project\bin\Debug\3 project.exe.config
+C:\Users\KB\Desktop\c\3 project\3 project\bin\Debug\3 project.exe
+C:\Users\KB\Desktop\c\3 project\3 project\bin\Debug\3 project.pdb
+C:\Users\KB\Desktop\c\3 project\3 project\bin\Debug\MaterialSkin.dll
+C:\Users\KB\Desktop\c\3 project\3 project\bin\Debug\SunnyUI.Common.dll
+C:\Users\KB\Desktop\c\3 project\3 project\obj\Debug\3 project.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\c\3 project\3 project\obj\Debug\3 project.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\c\3 project\3 project\obj\Debug\_3_project.Properties.Resources.resources
+C:\Users\KB\Desktop\c\3 project\3 project\obj\Debug\3 project.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\c\3 project\3 project\obj\Debug\3 project.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\c\3 project\3 project\obj\Debug\3 project.csproj.CopyComplete
+C:\Users\KB\Desktop\c\3 project\3 project\obj\Debug\3 project.exe
+C:\Users\KB\Desktop\c\3 project\3 project\obj\Debug\3 project.pdb
+C:\Users\KB\Desktop\c\3 project\3 project\obj\Debug\_3_project.m_MainForm.resources
+C:\Users\KB\Desktop\c\3 project\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KB\Desktop\c\3 project\3 project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\KB\Desktop\c\3 project\3 project\bin\Debug\SunnyUI.dll
+C:\Users\KB\Desktop\c\3 project\3 project\bin\Debug\System.Buffers.dll
+C:\Users\KB\Desktop\c\3 project\3 project\bin\Debug\System.Memory.dll
+C:\Users\KB\Desktop\c\3 project\3 project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\KB\Desktop\c\3 project\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KB\Desktop\c\3 project\3 project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\KB\Desktop\c\3 project\3 project\bin\Debug\System.Text.Json.dll
+C:\Users\KB\Desktop\c\3 project\3 project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\KB\Desktop\c\3 project\3 project\bin\Debug\System.ValueTuple.dll
+C:\Users\KB\Desktop\c\3 project\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\KB\Desktop\c\3 project\3 project\bin\Debug\System.Buffers.xml
+C:\Users\KB\Desktop\c\3 project\3 project\bin\Debug\System.Memory.xml
+C:\Users\KB\Desktop\c\3 project\3 project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\KB\Desktop\c\3 project\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\KB\Desktop\c\3 project\3 project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\KB\Desktop\c\3 project\3 project\bin\Debug\System.Text.Json.xml
+C:\Users\KB\Desktop\c\3 project\3 project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\KB\Desktop\c\3 project\3 project\bin\Debug\System.ValueTuple.xml
+C:\Users\KB\Desktop\c\3 project\3 project\obj\Debug\_3_project.ui.m_exercisePlan.resources
+C:\Users\KB\Desktop\c\3 project\3 project\obj\Debug\_3_project.ui.m_help.resources
+C:\Users\KB\Desktop\c\3 project\3 project\obj\Debug\_3_project.ui.m_home.resources
+C:\Users\KB\Desktop\c\3 project\3 project\obj\Debug\_3_project.ui.m_mealPlan.resources
+C:\Users\KB\Desktop\c\3 project\3 project\obj\Debug\_3_project.ui.m_memberAdd.resources
+C:\Users\KB\Desktop\c\3 project\3 project\obj\Debug\_3_project.ui.m_memberInfo.resources
+C:\Users\KB\Desktop\c\3 project\3 project\obj\Debug\_3_project.ui.m_memberPlan.resources
+C:\Users\KB\Desktop\c\3 project\3 project\obj\Debug\_3_project.ui.m_setting.resources
+C:\Users\KB\Desktop\c\3 project\3 project\obj\Debug\_3_project.ui.m_todayPlan.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\bin\Debug\3 project.exe.config
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\bin\Debug\3 project.exe
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\bin\Debug\3 project.pdb
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\bin\Debug\MaterialSkin.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\bin\Debug\SunnyUI.Common.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\bin\Debug\SunnyUI.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\bin\Debug\System.Buffers.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\bin\Debug\System.Memory.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\bin\Debug\System.Text.Json.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\bin\Debug\System.ValueTuple.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\bin\Debug\System.Buffers.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\bin\Debug\System.Memory.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\bin\Debug\System.Text.Json.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\bin\Debug\System.ValueTuple.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\obj\Debug\3 project.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\obj\Debug\3 project.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\obj\Debug\_3_project.ui.m_exercisePlan.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\obj\Debug\_3_project.ui.m_help.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\obj\Debug\_3_project.ui.m_home.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\obj\Debug\_3_project.m_MainForm.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\obj\Debug\_3_project.Properties.Resources.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\obj\Debug\_3_project.ui.m_mealPlan.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\obj\Debug\_3_project.ui.m_memberAdd.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\obj\Debug\_3_project.ui.m_memberInfo.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\obj\Debug\_3_project.ui.m_memberPlan.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\obj\Debug\_3_project.ui.m_setting.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\obj\Debug\_3_project.ui.m_todayPlan.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\obj\Debug\3 project.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\obj\Debug\3 project.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\obj\Debug\3 project.csproj.CopyComplete
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\obj\Debug\3 project.exe
+C:\Users\KB\Desktop\3차 팀프로젝트\3 project-페이지 연결 안되서 새로 올림, 오라클 테이블 id, pw 변경 후 이용하세요\3 project\obj\Debug\3 project.pdb
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\obj\Debug\3 project.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\obj\Debug\3 project.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\obj\Debug\_3_project.ui.m_exercisePlan.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\obj\Debug\_3_project.ui.m_help.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\obj\Debug\_3_project.ui.m_home.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\obj\Debug\_3_project.m_MainForm.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\obj\Debug\_3_project.Properties.Resources.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\obj\Debug\_3_project.ui.m_mealPlan.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\obj\Debug\_3_project.ui.m_memberAdd.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\obj\Debug\_3_project.ui.m_memberInfo.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\obj\Debug\_3_project.ui.m_memberPlan.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\obj\Debug\_3_project.ui.m_setting.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\obj\Debug\_3_project.ui.m_todayPlan.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\obj\Debug\3 project.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\obj\Debug\3 project.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\obj\Debug\3 project.exe
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\obj\Debug\3 project.pdb
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\bin\Debug\3 project.exe.config
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\bin\Debug\3 project.exe
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\bin\Debug\3 project.pdb
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\bin\Debug\MaterialSkin.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\bin\Debug\SunnyUI.Common.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\bin\Debug\SunnyUI.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\bin\Debug\System.Buffers.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\bin\Debug\System.Memory.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\bin\Debug\System.Text.Json.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\bin\Debug\System.ValueTuple.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\bin\Debug\System.Buffers.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\bin\Debug\System.Memory.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\bin\Debug\System.Text.Json.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\bin\Debug\System.ValueTuple.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 27일\3 project\obj\Debug\3 project.csproj.CopyComplete
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\bin\Debug\3 project.exe.config
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\bin\Debug\3 project.exe
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\bin\Debug\3 project.pdb
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\bin\Debug\MaterialSkin.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\bin\Debug\SunnyUI.Common.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\bin\Debug\SunnyUI.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\bin\Debug\System.Buffers.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\bin\Debug\System.Memory.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\bin\Debug\System.Text.Json.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\bin\Debug\System.ValueTuple.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\bin\Debug\System.Buffers.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\bin\Debug\System.Memory.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\bin\Debug\System.Text.Json.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\bin\Debug\System.ValueTuple.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\obj\Debug\3 project.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\obj\Debug\3 project.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\obj\Debug\_3_project.ui.m_exercisePlan.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\obj\Debug\_3_project.ui.m_help.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\obj\Debug\_3_project.ui.m_home.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\obj\Debug\_3_project.m_MainForm.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\obj\Debug\_3_project.Properties.Resources.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\obj\Debug\_3_project.ui.m_mealPlan.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\obj\Debug\_3_project.ui.m_memberAdd.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\obj\Debug\_3_project.ui.m_memberInfo.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\obj\Debug\_3_project.ui.m_memberPlan.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\obj\Debug\_3_project.ui.m_setting.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\obj\Debug\_3_project.ui.m_todayPlan.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\obj\Debug\3 project.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\obj\Debug\3 project.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\obj\Debug\3 project.csproj.CopyComplete
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\obj\Debug\3 project.exe
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 28일+ 통합중\3 project\obj\Debug\3 project.pdb
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\bin\Debug\3 project.exe.config
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\bin\Debug\3 project.exe
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\bin\Debug\3 project.pdb
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\bin\Debug\MaterialSkin.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\bin\Debug\SunnyUI.Common.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\bin\Debug\SunnyUI.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\bin\Debug\System.Buffers.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\bin\Debug\System.Memory.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\bin\Debug\System.Text.Json.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\bin\Debug\System.ValueTuple.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\bin\Debug\System.Buffers.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\bin\Debug\System.Memory.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\bin\Debug\System.Text.Json.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\bin\Debug\System.ValueTuple.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\obj\Debug\3 project.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\obj\Debug\3 project.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\obj\Debug\_3_project.ui.m_exercisePlan.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\obj\Debug\_3_project.ui.m_help.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\obj\Debug\_3_project.ui.m_home.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\obj\Debug\_3_project.m_MainForm.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\obj\Debug\_3_project.Properties.Resources.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\obj\Debug\_3_project.ui.m_mealPlan.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\obj\Debug\_3_project.ui.m_memberAdd.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\obj\Debug\_3_project.ui.m_memberInfo.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\obj\Debug\_3_project.ui.m_memberPlan.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\obj\Debug\_3_project.ui.m_setting.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\obj\Debug\_3_project.ui.m_todayPlan.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\obj\Debug\3 project.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\obj\Debug\3 project.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\obj\Debug\3 project.csproj.CopyComplete
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\obj\Debug\3 project.exe
+C:\Users\KB\Desktop\3차 팀프로젝트\12-29일 통합진행중\박수인 29일+ 통합중\3 project\obj\Debug\3 project.pdb
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\bin\Debug\3 project.exe.config
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\bin\Debug\3 project.exe
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\bin\Debug\3 project.pdb
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\bin\Debug\MaterialSkin.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\bin\Debug\SunnyUI.Common.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\bin\Debug\SunnyUI.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\bin\Debug\System.Buffers.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\bin\Debug\System.Memory.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\bin\Debug\System.Text.Json.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\bin\Debug\System.ValueTuple.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\bin\Debug\System.Buffers.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\bin\Debug\System.Memory.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\bin\Debug\System.Text.Json.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\bin\Debug\System.ValueTuple.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\obj\Debug\3 project.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\obj\Debug\3 project.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\obj\Debug\_3_project.ui.m_exercisePlan.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\obj\Debug\_3_project.ui.m_help.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\obj\Debug\_3_project.ui.m_home.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\obj\Debug\_3_project.m_MainForm.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\obj\Debug\_3_project.Properties.Resources.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\obj\Debug\_3_project.ui.m_mealPlan.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\obj\Debug\_3_project.ui.m_memberAdd.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\obj\Debug\_3_project.ui.m_memberInfo.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\obj\Debug\_3_project.ui.m_memberPlan.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\obj\Debug\_3_project.ui.m_setting.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\obj\Debug\_3_project.ui.m_todayPlan.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\obj\Debug\3 project.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\obj\Debug\3 project.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\obj\Debug\3 project.csproj.CopyComplete
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\obj\Debug\3 project.exe
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\obj\Debug\3 project.pdb
+C:\Users\KB\Desktop\3차 팀프로젝트\박수인 30일+ 통합중\3 project\obj\Debug\_3_project.ui.LoginAdd.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\bin\Debug\3 project.exe.config
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\bin\Debug\3 project.exe
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\bin\Debug\3 project.pdb
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\bin\Debug\MaterialSkin.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\bin\Debug\SunnyUI.Common.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\bin\Debug\SunnyUI.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\bin\Debug\System.Buffers.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\bin\Debug\System.Memory.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\bin\Debug\System.Text.Json.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\bin\Debug\System.ValueTuple.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\bin\Debug\System.Buffers.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\bin\Debug\System.Memory.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\bin\Debug\System.Text.Json.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\bin\Debug\System.ValueTuple.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\obj\Debug\3 project.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\obj\Debug\3 project.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\obj\Debug\_3_project.ui.LoginAdd.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\obj\Debug\_3_project.ui.m_exercisePlan.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\obj\Debug\_3_project.ui.m_help.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\obj\Debug\_3_project.ui.m_home.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\obj\Debug\_3_project.m_MainForm.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\obj\Debug\_3_project.Properties.Resources.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\obj\Debug\_3_project.ui.m_mealPlan.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\obj\Debug\_3_project.ui.m_memberAdd.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\obj\Debug\_3_project.ui.m_memberInfo.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\obj\Debug\_3_project.ui.m_memberPlan.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\obj\Debug\_3_project.ui.m_setting.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\obj\Debug\_3_project.ui.m_todayPlan.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\obj\Debug\3 project.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\obj\Debug\3 project.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\obj\Debug\3 project.csproj.CopyComplete
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\obj\Debug\3 project.exe
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\obj\Debug\3 project.pdb
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 30일+ 통합중\3 project\obj\Debug\_3_project.ui.m_home2.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\bin\Debug\3 project.exe.config
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\bin\Debug\3 project.exe
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\bin\Debug\3 project.pdb
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\bin\Debug\MaterialSkin.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\bin\Debug\SunnyUI.Common.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\bin\Debug\SunnyUI.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.Buffers.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.Memory.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.Text.Json.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.ValueTuple.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.Buffers.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.Memory.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.Text.Json.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.ValueTuple.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\obj\Debug\3 project.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\obj\Debug\3 project.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.LoginAdd.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_exercisePlan.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_help.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_home.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_home2.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.m_MainForm.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.Properties.Resources.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_mealPlan.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_memberAdd.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_memberInfo.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_memberPlan.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_setting.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_todayPlan.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\obj\Debug\3 project.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\obj\Debug\3 project.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\obj\Debug\3 project.csproj.CopyComplete
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\obj\Debug\3 project.exe
+C:\Users\KB\Desktop\3차 팀프로젝트\1-02\박수인 1월 2일+ 로그인\3 project\obj\Debug\3 project.pdb
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\3 project.exe.config
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\3 project.exe
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\3 project.pdb
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\MaterialSkin.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\SunnyUI.Common.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\SunnyUI.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.Buffers.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.Memory.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.Text.Json.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.ValueTuple.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.Buffers.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.Memory.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.Text.Json.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.ValueTuple.xml
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\Interop.WMPLib.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\3 project.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\3 project.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\Interop.WMPLib.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\3 project.csproj.ResolveComReference.cache
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.LoginAdd.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_exerciseDiff.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_exerciseEasy.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_exerciseMid.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_exercisePlan.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_exercise_benchpress.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_exercise_latpulldown.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_exercise_squat.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_exercise_walk.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_help.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_home.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_home2.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.m_MainForm.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.Properties.Resources.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_mealPlan.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_memberAdd.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_memberInfo.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_memberPlan.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_setting.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_todayPlan.resources
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\3 project.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\3 project.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\3 project.csproj.CopyComplete
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\3 project.exe
+C:\Users\KB\Desktop\3차 팀프로젝트\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\3 project.pdb
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\3 project.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\3 project.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\Interop.WMPLib.dll
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\3 project.csproj.ResolveComReference.cache
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.LoginAdd.resources
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_exerciseDiff.resources
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_exerciseEasy.resources
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_exerciseMid.resources
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_exercisePlan.resources
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_exercise_benchpress.resources
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_exercise_latpulldown.resources
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_exercise_squat.resources
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_exercise_walk.resources
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_help.resources
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_home.resources
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_home2.resources
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.m_MainForm.resources
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.Properties.Resources.resources
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_mealPlan.resources
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_memberAdd.resources
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_memberInfo.resources
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_memberPlan.resources
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_setting.resources
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\_3_project.ui.m_todayPlan.resources
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\3 project.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\3 project.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\3 project.exe
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\3 project.pdb
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\3 project.exe.config
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\3 project.exe
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\3 project.pdb
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\MaterialSkin.dll
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\SunnyUI.Common.dll
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\SunnyUI.dll
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.Buffers.dll
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.Memory.dll
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.Text.Json.dll
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.ValueTuple.dll
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.Buffers.xml
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.Memory.xml
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.Text.Json.xml
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\System.ValueTuple.xml
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\Interop.WMPLib.dll
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\KB\Desktop\1월2일 운동루틴 통합\박수인 1월 2일+ 로그인\3 project\obj\Debug\3 project.csproj.CopyComplete
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\bin\Debug\3 project.exe.config
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\bin\Debug\3 project.exe
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\bin\Debug\3 project.pdb
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\bin\Debug\MaterialSkin.dll
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\bin\Debug\SunnyUI.Common.dll
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\bin\Debug\SunnyUI.dll
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\bin\Debug\System.Buffers.dll
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\bin\Debug\System.Memory.dll
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\bin\Debug\System.Text.Json.dll
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\bin\Debug\System.ValueTuple.dll
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\bin\Debug\System.Buffers.xml
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\bin\Debug\System.Memory.xml
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\bin\Debug\System.Text.Json.xml
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\bin\Debug\System.ValueTuple.xml
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\bin\Debug\Interop.WMPLib.dll
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\obj\Debug\3 project.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\obj\Debug\3 project.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\obj\Debug\Interop.WMPLib.dll
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\obj\Debug\3 project.csproj.ResolveComReference.cache
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\obj\Debug\_3_project.ui.LoginAdd.resources
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\obj\Debug\_3_project.ui.m_exerciseDiff.resources
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\obj\Debug\_3_project.ui.m_exerciseEasy.resources
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\obj\Debug\_3_project.ui.m_exerciseMid.resources
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\obj\Debug\_3_project.ui.m_exercisePlan.resources
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\obj\Debug\_3_project.ui.m_exercise_benchpress.resources
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\obj\Debug\_3_project.ui.m_exercise_latpulldown.resources
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\obj\Debug\_3_project.ui.m_exercise_squat.resources
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\obj\Debug\_3_project.ui.m_exercise_walk.resources
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\obj\Debug\_3_project.ui.m_help.resources
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\obj\Debug\_3_project.ui.m_home.resources
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\obj\Debug\_3_project.ui.m_home2.resources
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\obj\Debug\_3_project.m_MainForm.resources
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\obj\Debug\_3_project.Properties.Resources.resources
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\obj\Debug\_3_project.ui.m_mealPlan.resources
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\obj\Debug\_3_project.ui.m_memberAdd.resources
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\obj\Debug\_3_project.ui.m_memberInfo.resources
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\obj\Debug\_3_project.ui.m_memberPlan.resources
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\obj\Debug\_3_project.ui.m_todayPlan.resources
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\obj\Debug\3 project.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\obj\Debug\3 project.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\obj\Debug\3 project.csproj.CopyComplete
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\obj\Debug\3 project.exe
+C:\Users\KB\Desktop\_전체통합 v0.1\3 project\obj\Debug\3 project.pdb
+E:\_전체통합 v0.1\3 project\bin\Debug\3 project.exe.config
+E:\_전체통합 v0.1\3 project\bin\Debug\3 project.exe
+E:\_전체통합 v0.1\3 project\bin\Debug\3 project.pdb
+E:\_전체통합 v0.1\3 project\bin\Debug\MaterialSkin.dll
+E:\_전체통합 v0.1\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\_전체통합 v0.1\3 project\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\_전체통합 v0.1\3 project\bin\Debug\SunnyUI.Common.dll
+E:\_전체통합 v0.1\3 project\bin\Debug\SunnyUI.dll
+E:\_전체통합 v0.1\3 project\bin\Debug\System.Buffers.dll
+E:\_전체통합 v0.1\3 project\bin\Debug\System.Memory.dll
+E:\_전체통합 v0.1\3 project\bin\Debug\System.Numerics.Vectors.dll
+E:\_전체통합 v0.1\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\_전체통합 v0.1\3 project\bin\Debug\System.Text.Encodings.Web.dll
+E:\_전체통합 v0.1\3 project\bin\Debug\System.Text.Json.dll
+E:\_전체통합 v0.1\3 project\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\_전체통합 v0.1\3 project\bin\Debug\System.ValueTuple.dll
+E:\_전체통합 v0.1\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\_전체통합 v0.1\3 project\bin\Debug\System.Buffers.xml
+E:\_전체통합 v0.1\3 project\bin\Debug\System.Memory.xml
+E:\_전체통합 v0.1\3 project\bin\Debug\System.Numerics.Vectors.xml
+E:\_전체통합 v0.1\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\_전체통합 v0.1\3 project\bin\Debug\System.Text.Encodings.Web.xml
+E:\_전체통합 v0.1\3 project\bin\Debug\System.Text.Json.xml
+E:\_전체통합 v0.1\3 project\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\_전체통합 v0.1\3 project\bin\Debug\System.ValueTuple.xml
+E:\_전체통합 v0.1\3 project\bin\Debug\Interop.WMPLib.dll
+E:\_전체통합 v0.1\3 project\bin\Debug\AxInterop.WMPLib.dll
+E:\_전체통합 v0.1\3 project\obj\Debug\3 project.csproj.AssemblyReference.cache
+E:\_전체통합 v0.1\3 project\obj\Debug\3 project.csproj.SuggestedBindingRedirects.cache
+E:\_전체통합 v0.1\3 project\obj\Debug\Interop.WMPLib.dll
+E:\_전체통합 v0.1\3 project\obj\Debug\AxInterop.WMPLib.dll
+E:\_전체통합 v0.1\3 project\obj\Debug\3 project.csproj.ResolveComReference.cache
+E:\_전체통합 v0.1\3 project\obj\Debug\_3_project.ui.LoginAdd.resources
+E:\_전체통합 v0.1\3 project\obj\Debug\_3_project.ui.m_exerciseDiff.resources
+E:\_전체통합 v0.1\3 project\obj\Debug\_3_project.ui.m_exerciseEasy.resources
+E:\_전체통합 v0.1\3 project\obj\Debug\_3_project.ui.m_exerciseMid.resources
+E:\_전체통합 v0.1\3 project\obj\Debug\_3_project.ui.m_exercisePlan.resources
+E:\_전체통합 v0.1\3 project\obj\Debug\_3_project.ui.m_exercise_benchpress.resources
+E:\_전체통합 v0.1\3 project\obj\Debug\_3_project.ui.m_exercise_latpulldown.resources
+E:\_전체통합 v0.1\3 project\obj\Debug\_3_project.ui.m_exercise_squat.resources
+E:\_전체통합 v0.1\3 project\obj\Debug\_3_project.ui.m_exercise_walk.resources
+E:\_전체통합 v0.1\3 project\obj\Debug\_3_project.ui.m_help.resources
+E:\_전체통합 v0.1\3 project\obj\Debug\_3_project.ui.m_home.resources
+E:\_전체통합 v0.1\3 project\obj\Debug\_3_project.ui.m_home2.resources
+E:\_전체통합 v0.1\3 project\obj\Debug\_3_project.m_MainForm.resources
+E:\_전체통합 v0.1\3 project\obj\Debug\_3_project.Properties.Resources.resources
+E:\_전체통합 v0.1\3 project\obj\Debug\_3_project.ui.m_mealPlan.resources
+E:\_전체통합 v0.1\3 project\obj\Debug\_3_project.ui.m_memberAdd.resources
+E:\_전체통합 v0.1\3 project\obj\Debug\_3_project.ui.m_memberInfo.resources
+E:\_전체통합 v0.1\3 project\obj\Debug\_3_project.ui.m_memberPlan.resources
+E:\_전체통합 v0.1\3 project\obj\Debug\_3_project.ui.m_todayPlan.resources
+E:\_전체통합 v0.1\3 project\obj\Debug\3 project.csproj.GenerateResource.cache
+E:\_전체통합 v0.1\3 project\obj\Debug\3 project.csproj.CoreCompileInputs.cache
+E:\_전체통합 v0.1\3 project\obj\Debug\3 project.csproj.CopyComplete
+E:\_전체통합 v0.1\3 project\obj\Debug\3 project.exe
+E:\_전체통합 v0.1\3 project\obj\Debug\3 project.pdb
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\bin\Debug\3 project.exe.config
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\bin\Debug\3 project.exe
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\bin\Debug\3 project.pdb
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\bin\Debug\MaterialSkin.dll
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\bin\Debug\SunnyUI.Common.dll
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\bin\Debug\SunnyUI.dll
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\bin\Debug\System.Buffers.dll
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\bin\Debug\System.Memory.dll
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\bin\Debug\System.Text.Json.dll
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\bin\Debug\System.ValueTuple.dll
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\bin\Debug\System.Buffers.xml
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\bin\Debug\System.Memory.xml
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\bin\Debug\System.Text.Json.xml
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\bin\Debug\System.ValueTuple.xml
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\bin\Debug\Interop.WMPLib.dll
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\obj\Debug\3 project.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\obj\Debug\3 project.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\obj\Debug\Interop.WMPLib.dll
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\obj\Debug\3 project.csproj.ResolveComReference.cache
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\obj\Debug\_3_project.ui.LoginAdd.resources
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\obj\Debug\_3_project.ui.m_exerciseDiff.resources
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\obj\Debug\_3_project.ui.m_exerciseEasy.resources
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\obj\Debug\_3_project.ui.m_exerciseMid.resources
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\obj\Debug\_3_project.ui.m_exercisePlan.resources
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\obj\Debug\_3_project.ui.m_exercise_benchpress.resources
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\obj\Debug\_3_project.ui.m_exercise_latpulldown.resources
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\obj\Debug\_3_project.ui.m_exercise_squat.resources
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\obj\Debug\_3_project.ui.m_exercise_walk.resources
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\obj\Debug\_3_project.ui.m_help.resources
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\obj\Debug\_3_project.ui.m_home.resources
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\obj\Debug\_3_project.ui.m_home2.resources
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\obj\Debug\_3_project.m_MainForm.resources
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\obj\Debug\_3_project.Properties.Resources.resources
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\obj\Debug\_3_project.ui.m_mealPlan.resources
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\obj\Debug\_3_project.ui.m_memberAdd.resources
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\obj\Debug\_3_project.ui.m_memberInfo.resources
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\obj\Debug\_3_project.ui.m_memberPlan.resources
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\obj\Debug\_3_project.ui.m_todayPlan.resources
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\obj\Debug\3 project.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\obj\Debug\3 project.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\obj\Debug\3 project.csproj.CopyComplete
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\obj\Debug\3 project.exe
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.0\디자인 최신\3 project\obj\Debug\3 project.pdb
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\obj\Debug\3 project.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\obj\Debug\3 project.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\obj\Debug\Interop.WMPLib.dll
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\obj\Debug\3 project.csproj.ResolveComReference.cache
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\obj\Debug\_3_project.ui.LoginAdd.resources
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\obj\Debug\_3_project.ui.m_exerciseDiff.resources
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\obj\Debug\_3_project.ui.m_exerciseEasy.resources
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\obj\Debug\_3_project.ui.m_exerciseMid.resources
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\obj\Debug\_3_project.ui.m_exercisePlan.resources
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\obj\Debug\_3_project.ui.m_exercise_benchpress.resources
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\obj\Debug\_3_project.ui.m_exercise_latpulldown.resources
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\obj\Debug\_3_project.ui.m_exercise_squat.resources
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\obj\Debug\_3_project.ui.m_exercise_walk.resources
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\obj\Debug\_3_project.ui.m_help.resources
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\obj\Debug\_3_project.ui.m_home.resources
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\obj\Debug\_3_project.ui.m_home2.resources
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\obj\Debug\_3_project.m_MainForm.resources
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\obj\Debug\_3_project.Properties.Resources.resources
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\obj\Debug\_3_project.ui.m_mealPlan.resources
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\obj\Debug\_3_project.ui.m_memberAdd.resources
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\obj\Debug\_3_project.ui.m_memberInfo.resources
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\obj\Debug\_3_project.ui.m_memberPlan.resources
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\obj\Debug\_3_project.ui.m_todayPlan.resources
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\obj\Debug\3 project.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\obj\Debug\3 project.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\obj\Debug\3 project.exe
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\obj\Debug\3 project.pdb
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\bin\Debug\3 project.exe.config
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\bin\Debug\3 project.exe
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\bin\Debug\3 project.pdb
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\bin\Debug\MaterialSkin.dll
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\bin\Debug\SunnyUI.Common.dll
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\bin\Debug\SunnyUI.dll
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\bin\Debug\System.Buffers.dll
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\bin\Debug\System.Memory.dll
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\bin\Debug\System.Text.Json.dll
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\bin\Debug\System.ValueTuple.dll
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\bin\Debug\System.Buffers.xml
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\bin\Debug\System.Memory.xml
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\bin\Debug\System.Text.Json.xml
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\bin\Debug\System.ValueTuple.xml
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\bin\Debug\Interop.WMPLib.dll
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\KB\Desktop\1-04-02\전체통합_v2.2\디자인 최신\3 project\obj\Debug\3 project.csproj.CopyComplete
+C:\Users\KB\Desktop\디자인 최신\3 project\bin\Debug\3 project.exe.config
+C:\Users\KB\Desktop\디자인 최신\3 project\bin\Debug\3 project.exe
+C:\Users\KB\Desktop\디자인 최신\3 project\bin\Debug\3 project.pdb
+C:\Users\KB\Desktop\디자인 최신\3 project\bin\Debug\MaterialSkin.dll
+C:\Users\KB\Desktop\디자인 최신\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KB\Desktop\디자인 최신\3 project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\KB\Desktop\디자인 최신\3 project\bin\Debug\SunnyUI.Common.dll
+C:\Users\KB\Desktop\디자인 최신\3 project\bin\Debug\SunnyUI.dll
+C:\Users\KB\Desktop\디자인 최신\3 project\bin\Debug\System.Buffers.dll
+C:\Users\KB\Desktop\디자인 최신\3 project\bin\Debug\System.Memory.dll
+C:\Users\KB\Desktop\디자인 최신\3 project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\KB\Desktop\디자인 최신\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KB\Desktop\디자인 최신\3 project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\KB\Desktop\디자인 최신\3 project\bin\Debug\System.Text.Json.dll
+C:\Users\KB\Desktop\디자인 최신\3 project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\KB\Desktop\디자인 최신\3 project\bin\Debug\System.ValueTuple.dll
+C:\Users\KB\Desktop\디자인 최신\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\KB\Desktop\디자인 최신\3 project\bin\Debug\System.Buffers.xml
+C:\Users\KB\Desktop\디자인 최신\3 project\bin\Debug\System.Memory.xml
+C:\Users\KB\Desktop\디자인 최신\3 project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\KB\Desktop\디자인 최신\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\KB\Desktop\디자인 최신\3 project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\KB\Desktop\디자인 최신\3 project\bin\Debug\System.Text.Json.xml
+C:\Users\KB\Desktop\디자인 최신\3 project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\KB\Desktop\디자인 최신\3 project\bin\Debug\System.ValueTuple.xml
+C:\Users\KB\Desktop\디자인 최신\3 project\bin\Debug\Interop.WMPLib.dll
+C:\Users\KB\Desktop\디자인 최신\3 project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\KB\Desktop\디자인 최신\3 project\obj\Debug\3 project.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\디자인 최신\3 project\obj\Debug\3 project.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\디자인 최신\3 project\obj\Debug\Interop.WMPLib.dll
+C:\Users\KB\Desktop\디자인 최신\3 project\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\KB\Desktop\디자인 최신\3 project\obj\Debug\3 project.csproj.ResolveComReference.cache
+C:\Users\KB\Desktop\디자인 최신\3 project\obj\Debug\_3_project.ui.LoginAdd.resources
+C:\Users\KB\Desktop\디자인 최신\3 project\obj\Debug\_3_project.ui.m_exerciseDiff.resources
+C:\Users\KB\Desktop\디자인 최신\3 project\obj\Debug\_3_project.ui.m_exerciseEasy.resources
+C:\Users\KB\Desktop\디자인 최신\3 project\obj\Debug\_3_project.ui.m_exerciseMid.resources
+C:\Users\KB\Desktop\디자인 최신\3 project\obj\Debug\_3_project.ui.m_exercisePlan.resources
+C:\Users\KB\Desktop\디자인 최신\3 project\obj\Debug\_3_project.ui.m_exercise_benchpress.resources
+C:\Users\KB\Desktop\디자인 최신\3 project\obj\Debug\_3_project.ui.m_exercise_latpulldown.resources
+C:\Users\KB\Desktop\디자인 최신\3 project\obj\Debug\_3_project.ui.m_exercise_squat.resources
+C:\Users\KB\Desktop\디자인 최신\3 project\obj\Debug\_3_project.ui.m_exercise_walk.resources
+C:\Users\KB\Desktop\디자인 최신\3 project\obj\Debug\_3_project.ui.m_help.resources
+C:\Users\KB\Desktop\디자인 최신\3 project\obj\Debug\_3_project.ui.m_home.resources
+C:\Users\KB\Desktop\디자인 최신\3 project\obj\Debug\_3_project.ui.m_home2.resources
+C:\Users\KB\Desktop\디자인 최신\3 project\obj\Debug\_3_project.m_MainForm.resources
+C:\Users\KB\Desktop\디자인 최신\3 project\obj\Debug\_3_project.Properties.Resources.resources
+C:\Users\KB\Desktop\디자인 최신\3 project\obj\Debug\_3_project.ui.m_mealPlan.resources
+C:\Users\KB\Desktop\디자인 최신\3 project\obj\Debug\_3_project.ui.m_memberAdd.resources
+C:\Users\KB\Desktop\디자인 최신\3 project\obj\Debug\_3_project.ui.m_memberInfo.resources
+C:\Users\KB\Desktop\디자인 최신\3 project\obj\Debug\_3_project.ui.m_memberPlan.resources
+C:\Users\KB\Desktop\디자인 최신\3 project\obj\Debug\_3_project.ui.m_todayPlan.resources
+C:\Users\KB\Desktop\디자인 최신\3 project\obj\Debug\3 project.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\디자인 최신\3 project\obj\Debug\3 project.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\디자인 최신\3 project\obj\Debug\3 project.csproj.CopyComplete
+C:\Users\KB\Desktop\디자인 최신\3 project\obj\Debug\3 project.exe
+C:\Users\KB\Desktop\디자인 최신\3 project\obj\Debug\3 project.pdb
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\bin\Debug\3 project.exe.config
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\bin\Debug\3 project.exe
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\bin\Debug\3 project.pdb
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\bin\Debug\MaterialSkin.dll
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\bin\Debug\SunnyUI.Common.dll
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\bin\Debug\SunnyUI.dll
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\bin\Debug\System.Buffers.dll
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\bin\Debug\System.Memory.dll
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\bin\Debug\System.Text.Json.dll
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\bin\Debug\System.ValueTuple.dll
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\bin\Debug\System.Buffers.xml
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\bin\Debug\System.Memory.xml
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\bin\Debug\System.Text.Json.xml
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\bin\Debug\System.ValueTuple.xml
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\bin\Debug\Interop.WMPLib.dll
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\obj\Debug\3 project.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\obj\Debug\3 project.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\obj\Debug\Interop.WMPLib.dll
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\obj\Debug\3 project.csproj.ResolveComReference.cache
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\obj\Debug\_3_project.ui.LoginAdd.resources
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\obj\Debug\_3_project.ui.m_exerciseDiff.resources
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\obj\Debug\_3_project.ui.m_exerciseEasy.resources
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\obj\Debug\_3_project.ui.m_exerciseMid.resources
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\obj\Debug\_3_project.ui.m_exercisePlan.resources
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\obj\Debug\_3_project.ui.m_exercise_benchpress.resources
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\obj\Debug\_3_project.ui.m_exercise_latpulldown.resources
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\obj\Debug\_3_project.ui.m_exercise_squat.resources
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\obj\Debug\_3_project.ui.m_exercise_walk.resources
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\obj\Debug\_3_project.ui.m_help.resources
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\obj\Debug\_3_project.ui.m_home.resources
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\obj\Debug\_3_project.ui.m_home2.resources
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\obj\Debug\_3_project.m_MainForm.resources
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\obj\Debug\_3_project.Properties.Resources.resources
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\obj\Debug\_3_project.ui.m_mealPlan.resources
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\obj\Debug\_3_project.ui.m_memberAdd.resources
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\obj\Debug\_3_project.ui.m_memberInfo.resources
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\obj\Debug\_3_project.ui.m_memberPlan.resources
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\obj\Debug\_3_project.ui.m_todayPlan.resources
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\obj\Debug\3 project.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\obj\Debug\3 project.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\obj\Debug\3 project.csproj.CopyComplete
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\obj\Debug\3 project.exe
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일\3 project\obj\Debug\3 project.pdb
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\bin\Debug\3 project.exe.config
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\bin\Debug\3 project.exe
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\bin\Debug\3 project.pdb
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\bin\Debug\MaterialSkin.dll
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\bin\Debug\SunnyUI.Common.dll
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\bin\Debug\SunnyUI.dll
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\bin\Debug\System.Buffers.dll
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\bin\Debug\System.Memory.dll
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\bin\Debug\System.Text.Json.dll
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\bin\Debug\System.ValueTuple.dll
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\bin\Debug\System.Buffers.xml
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\bin\Debug\System.Memory.xml
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\bin\Debug\System.Text.Json.xml
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\bin\Debug\System.ValueTuple.xml
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\bin\Debug\Interop.WMPLib.dll
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\obj\Debug\3 project.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\obj\Debug\3 project.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\obj\Debug\Interop.WMPLib.dll
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\obj\Debug\3 project.csproj.ResolveComReference.cache
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\obj\Debug\_3_project.ui.LoginAdd.resources
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\obj\Debug\_3_project.ui.m_exerciseDiff.resources
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\obj\Debug\_3_project.ui.m_exerciseEasy.resources
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\obj\Debug\_3_project.ui.m_exerciseMid.resources
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\obj\Debug\_3_project.ui.m_exercisePlan.resources
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\obj\Debug\_3_project.ui.m_exercise_benchpress.resources
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\obj\Debug\_3_project.ui.m_exercise_latpulldown.resources
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\obj\Debug\_3_project.ui.m_exercise_squat.resources
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\obj\Debug\_3_project.ui.m_exercise_walk.resources
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\obj\Debug\_3_project.ui.m_help.resources
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\obj\Debug\_3_project.ui.m_home.resources
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\obj\Debug\_3_project.ui.m_home2.resources
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\obj\Debug\_3_project.m_MainForm.resources
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\obj\Debug\_3_project.Properties.Resources.resources
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\obj\Debug\_3_project.ui.m_mealPlan.resources
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\obj\Debug\_3_project.ui.m_memberAdd.resources
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\obj\Debug\_3_project.ui.m_memberInfo.resources
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\obj\Debug\_3_project.ui.m_memberPlan.resources
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\obj\Debug\_3_project.ui.m_todayPlan.resources
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\obj\Debug\3 project.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\obj\Debug\3 project.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\obj\Debug\3 project.csproj.CopyComplete
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\obj\Debug\3 project.exe
+C:\Users\KB\Desktop\디자인 최신_통합본 1월 5일22\3 project\obj\Debug\3 project.pdb
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\bin\Debug\3 project.exe.config
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\bin\Debug\3 project.exe
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\bin\Debug\3 project.pdb
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\bin\Debug\MaterialSkin.dll
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\bin\Debug\SunnyUI.Common.dll
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\bin\Debug\SunnyUI.dll
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\bin\Debug\System.Buffers.dll
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\bin\Debug\System.Memory.dll
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\bin\Debug\System.Text.Json.dll
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\bin\Debug\System.ValueTuple.dll
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\bin\Debug\System.Buffers.xml
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\bin\Debug\System.Memory.xml
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\bin\Debug\System.Text.Json.xml
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\bin\Debug\System.ValueTuple.xml
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\bin\Debug\Interop.WMPLib.dll
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\obj\Debug\3 project.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\obj\Debug\3 project.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\obj\Debug\Interop.WMPLib.dll
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\obj\Debug\3 project.csproj.ResolveComReference.cache
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\obj\Debug\_3_project.ui.LoginAdd.resources
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\obj\Debug\_3_project.ui.m_exerciseDiff.resources
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\obj\Debug\_3_project.ui.m_exerciseEasy.resources
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\obj\Debug\_3_project.ui.m_exerciseMid.resources
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\obj\Debug\_3_project.ui.m_exercisePlan.resources
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\obj\Debug\_3_project.ui.m_exercise_benchpress.resources
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\obj\Debug\_3_project.ui.m_exercise_latpulldown.resources
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\obj\Debug\_3_project.ui.m_exercise_squat.resources
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\obj\Debug\_3_project.ui.m_exercise_walk.resources
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\obj\Debug\_3_project.ui.m_help.resources
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\obj\Debug\_3_project.ui.m_home.resources
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\obj\Debug\_3_project.ui.m_home2.resources
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\obj\Debug\_3_project.m_MainForm.resources
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\obj\Debug\_3_project.Properties.Resources.resources
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\obj\Debug\_3_project.ui.m_mealPlan.resources
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\obj\Debug\_3_project.ui.m_memberAdd.resources
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\obj\Debug\_3_project.ui.m_memberInfo.resources
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\obj\Debug\_3_project.ui.m_memberPlan.resources
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\obj\Debug\_3_project.ui.m_todayPlan.resources
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\obj\Debug\3 project.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\obj\Debug\3 project.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\obj\Debug\3 project.csproj.CopyComplete
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\obj\Debug\3 project.exe
+C:\Users\KB\Desktop\희원_통합\___최종완성본 베타\3 project\obj\Debug\3 project.pdb
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\bin\Debug\3 project.exe.config
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\bin\Debug\3 project.exe
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\bin\Debug\3 project.pdb
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\bin\Debug\MaterialSkin.dll
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\bin\Debug\SunnyUI.Common.dll
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\bin\Debug\SunnyUI.dll
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\bin\Debug\System.Buffers.dll
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\bin\Debug\System.Memory.dll
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\bin\Debug\System.Text.Json.dll
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\bin\Debug\System.ValueTuple.dll
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\bin\Debug\System.Buffers.xml
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\bin\Debug\System.Memory.xml
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\bin\Debug\System.Text.Json.xml
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\bin\Debug\System.ValueTuple.xml
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\bin\Debug\Interop.WMPLib.dll
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\obj\Debug\3 project.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\obj\Debug\3 project.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\obj\Debug\Interop.WMPLib.dll
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\obj\Debug\3 project.csproj.ResolveComReference.cache
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\obj\Debug\_3_project.ui.LoginAdd.resources
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\obj\Debug\_3_project.ui.m_exerciseDiff.resources
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\obj\Debug\_3_project.ui.m_exerciseEasy.resources
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\obj\Debug\_3_project.ui.m_exerciseMid.resources
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\obj\Debug\_3_project.ui.m_exercisePlan.resources
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\obj\Debug\_3_project.ui.m_exercise_benchpress.resources
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\obj\Debug\_3_project.ui.m_exercise_latpulldown.resources
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\obj\Debug\_3_project.ui.m_exercise_squat.resources
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\obj\Debug\_3_project.ui.m_exercise_walk.resources
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\obj\Debug\_3_project.ui.m_help.resources
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\obj\Debug\_3_project.ui.m_home.resources
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\obj\Debug\_3_project.ui.m_home2.resources
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\obj\Debug\_3_project.m_MainForm.resources
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\obj\Debug\_3_project.Properties.Resources.resources
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\obj\Debug\_3_project.ui.m_mealPlan.resources
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\obj\Debug\_3_project.ui.m_memberAdd.resources
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\obj\Debug\_3_project.ui.m_memberInfo.resources
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\obj\Debug\_3_project.ui.m_memberPlan.resources
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\obj\Debug\_3_project.ui.m_todayPlan.resources
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\obj\Debug\3 project.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\obj\Debug\3 project.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\obj\Debug\3 project.csproj.CopyComplete
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\obj\Debug\3 project.exe
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 베타\3 project\obj\Debug\3 project.pdb
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\bin\Debug\3 project.exe.config
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\bin\Debug\3 project.exe
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\bin\Debug\3 project.pdb
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\bin\Debug\MaterialSkin.dll
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\bin\Debug\SunnyUI.Common.dll
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\bin\Debug\SunnyUI.dll
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\bin\Debug\System.Buffers.dll
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\bin\Debug\System.Memory.dll
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\bin\Debug\System.Text.Json.dll
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\bin\Debug\System.ValueTuple.dll
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\bin\Debug\System.Buffers.xml
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\bin\Debug\System.Memory.xml
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\bin\Debug\System.Text.Json.xml
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\bin\Debug\System.ValueTuple.xml
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\bin\Debug\Interop.WMPLib.dll
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\obj\Debug\3 project.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\obj\Debug\3 project.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\obj\Debug\Interop.WMPLib.dll
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\obj\Debug\3 project.csproj.ResolveComReference.cache
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\obj\Debug\_3_project.ui.LoginAdd.resources
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\obj\Debug\_3_project.ui.m_exerciseDiff.resources
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\obj\Debug\_3_project.ui.m_exerciseEasy.resources
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\obj\Debug\_3_project.ui.m_exerciseMid.resources
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\obj\Debug\_3_project.ui.m_exercisePlan.resources
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\obj\Debug\_3_project.ui.m_exercise_benchpress.resources
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\obj\Debug\_3_project.ui.m_exercise_latpulldown.resources
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\obj\Debug\_3_project.ui.m_exercise_squat.resources
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\obj\Debug\_3_project.ui.m_exercise_walk.resources
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\obj\Debug\_3_project.ui.m_help.resources
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\obj\Debug\_3_project.ui.m_home.resources
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\obj\Debug\_3_project.ui.m_home2.resources
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\obj\Debug\_3_project.m_MainForm.resources
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\obj\Debug\_3_project.Properties.Resources.resources
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\obj\Debug\_3_project.ui.m_mealPlan.resources
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\obj\Debug\_3_project.ui.m_memberAdd.resources
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\obj\Debug\_3_project.ui.m_memberInfo.resources
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\obj\Debug\_3_project.ui.m_memberPlan.resources
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\obj\Debug\_3_project.ui.m_todayPlan.resources
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\obj\Debug\3 project.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\obj\Debug\3 project.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\obj\Debug\3 project.csproj.CopyComplete
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\obj\Debug\3 project.exe
+C:\Users\KB\Desktop\1-6\희원_통합\___최종완성본 _1월 6일\3 project\obj\Debug\3 project.pdb
+\\192.168.0.135\공유폴더\플랫폼_proj\3조\____최종완성본2 _1월 6일\3 project\obj\Debug\3 project.csproj.AssemblyReference.cache
+\\192.168.0.135\공유폴더\플랫폼_proj\3조\____최종완성본2 _1월 6일\3 project\obj\Debug\3 project.csproj.SuggestedBindingRedirects.cache
+\\192.168.0.135\공유폴더\플랫폼_proj\3조\____최종완성본2 _1월 6일\3 project\obj\Debug\Interop.WMPLib.dll
+\\192.168.0.135\공유폴더\플랫폼_proj\3조\____최종완성본2 _1월 6일\3 project\obj\Debug\AxInterop.WMPLib.dll
+\\192.168.0.135\공유폴더\플랫폼_proj\3조\____최종완성본2 _1월 6일\3 project\obj\Debug\3 project.csproj.ResolveComReference.cache
+\\192.168.0.135\공유폴더\플랫폼_proj\3조\____최종완성본2 _1월 6일\3 project\obj\Debug\3 project.exe
+\\192.168.0.135\공유폴더\플랫폼_proj\3조\____최종완성본2 _1월 6일\3 project\obj\Debug\3 project.pdb
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\bin\Debug\3 project.exe.config
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\bin\Debug\3 project.exe
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\bin\Debug\3 project.pdb
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\bin\Debug\MaterialSkin.dll
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\bin\Debug\SunnyUI.Common.dll
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\bin\Debug\SunnyUI.dll
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\bin\Debug\System.Buffers.dll
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\bin\Debug\System.Memory.dll
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\bin\Debug\System.Text.Json.dll
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\bin\Debug\System.ValueTuple.dll
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\bin\Debug\System.Buffers.xml
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\bin\Debug\System.Memory.xml
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\bin\Debug\System.Text.Json.xml
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\bin\Debug\System.ValueTuple.xml
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\bin\Debug\Interop.WMPLib.dll
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\obj\Debug\3 project.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\obj\Debug\3 project.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\obj\Debug\Interop.WMPLib.dll
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\obj\Debug\3 project.csproj.ResolveComReference.cache
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\obj\Debug\_3_project.ui.LoginAdd.resources
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\obj\Debug\_3_project.ui.m_exerciseDiff.resources
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\obj\Debug\_3_project.ui.m_exerciseEasy.resources
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\obj\Debug\_3_project.ui.m_exerciseMid.resources
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\obj\Debug\_3_project.ui.m_exercisePlan.resources
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\obj\Debug\_3_project.ui.m_exercise_benchpress.resources
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\obj\Debug\_3_project.ui.m_exercise_latpulldown.resources
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\obj\Debug\_3_project.ui.m_exercise_squat.resources
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\obj\Debug\_3_project.ui.m_exercise_walk.resources
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\obj\Debug\_3_project.ui.m_help.resources
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\obj\Debug\_3_project.ui.m_home.resources
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\obj\Debug\_3_project.ui.m_home2.resources
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\obj\Debug\_3_project.m_MainForm.resources
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\obj\Debug\_3_project.Properties.Resources.resources
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\obj\Debug\_3_project.ui.m_mealPlan.resources
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\obj\Debug\_3_project.ui.m_memberAdd.resources
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\obj\Debug\_3_project.ui.m_memberInfo.resources
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\obj\Debug\_3_project.ui.m_memberPlan.resources
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\obj\Debug\_3_project.ui.m_todayPlan.resources
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\obj\Debug\3 project.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\obj\Debug\3 project.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\obj\Debug\3 project.csproj.CopyComplete
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\obj\Debug\3 project.exe
+C:\Users\KB\Desktop\____최종완성본2 _1월 6일\3 project\obj\Debug\3 project.pdb
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\bin\Debug\3 project.exe.config
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\bin\Debug\3 project.exe
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\bin\Debug\3 project.pdb
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\bin\Debug\MaterialSkin.dll
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\bin\Debug\SunnyUI.Common.dll
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\bin\Debug\SunnyUI.dll
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\bin\Debug\System.Buffers.dll
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\bin\Debug\System.Memory.dll
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\bin\Debug\System.Text.Json.dll
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\bin\Debug\System.ValueTuple.dll
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\bin\Debug\System.Buffers.xml
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\bin\Debug\System.Memory.xml
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\bin\Debug\System.Text.Json.xml
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\bin\Debug\System.ValueTuple.xml
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\bin\Debug\Interop.WMPLib.dll
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\obj\Debug\3 project.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\obj\Debug\3 project.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\obj\Debug\Interop.WMPLib.dll
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\obj\Debug\3 project.csproj.ResolveComReference.cache
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\obj\Debug\_3_project.ui.LoginAdd.resources
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\obj\Debug\_3_project.ui.m_exerciseDiff.resources
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\obj\Debug\_3_project.ui.m_exerciseEasy.resources
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\obj\Debug\_3_project.ui.m_exerciseMid.resources
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\obj\Debug\_3_project.ui.m_exercisePlan.resources
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\obj\Debug\_3_project.ui.m_exercise_benchpress.resources
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\obj\Debug\_3_project.ui.m_exercise_latpulldown.resources
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\obj\Debug\_3_project.ui.m_exercise_squat.resources
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\obj\Debug\_3_project.ui.m_exercise_walk.resources
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\obj\Debug\_3_project.ui.m_help.resources
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\obj\Debug\_3_project.ui.m_home.resources
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\obj\Debug\_3_project.ui.m_home2.resources
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\obj\Debug\_3_project.m_MainForm.resources
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\obj\Debug\_3_project.Properties.Resources.resources
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\obj\Debug\_3_project.ui.m_mealPlan.resources
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\obj\Debug\_3_project.ui.m_memberAdd.resources
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\obj\Debug\_3_project.ui.m_memberInfo.resources
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\obj\Debug\_3_project.ui.m_memberPlan.resources
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\obj\Debug\_3_project.ui.m_todayPlan.resources
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\obj\Debug\3 project.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\obj\Debug\3 project.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\obj\Debug\3 project.csproj.CopyComplete
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\obj\Debug\3 project.exe
+C:\Users\KB\Desktop\12월 및 1월 초 c# 윈폼 팀프로젝트 3조\____최종완성본2 _1월 6일\3 project\obj\Debug\3 project.pdb
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\bin\Debug\3 project.exe.config
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\bin\Debug\3 project.exe
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\bin\Debug\3 project.pdb
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\bin\Debug\MaterialSkin.dll
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\bin\Debug\SunnyUI.Common.dll
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\bin\Debug\SunnyUI.dll
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\bin\Debug\System.Buffers.dll
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\bin\Debug\System.Memory.dll
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\bin\Debug\System.Text.Json.dll
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\bin\Debug\System.ValueTuple.dll
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\bin\Debug\System.Buffers.xml
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\bin\Debug\System.Memory.xml
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\bin\Debug\System.Text.Json.xml
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\bin\Debug\System.ValueTuple.xml
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\bin\Debug\Interop.WMPLib.dll
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\obj\Debug\3 project.csproj.AssemblyReference.cache
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\obj\Debug\3 project.csproj.SuggestedBindingRedirects.cache
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\obj\Debug\Interop.WMPLib.dll
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\obj\Debug\3 project.csproj.ResolveComReference.cache
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\obj\Debug\_3_project.ui.LoginAdd.resources
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\obj\Debug\_3_project.ui.m_exerciseDiff.resources
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\obj\Debug\_3_project.ui.m_exerciseEasy.resources
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\obj\Debug\_3_project.ui.m_exerciseMid.resources
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\obj\Debug\_3_project.ui.m_exercisePlan.resources
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\obj\Debug\_3_project.ui.m_exercise_benchpress.resources
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\obj\Debug\_3_project.ui.m_exercise_latpulldown.resources
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\obj\Debug\_3_project.ui.m_exercise_squat.resources
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\obj\Debug\_3_project.ui.m_exercise_walk.resources
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\obj\Debug\_3_project.ui.m_help.resources
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\obj\Debug\_3_project.ui.m_home.resources
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\obj\Debug\_3_project.ui.m_home2.resources
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\obj\Debug\_3_project.m_MainForm.resources
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\obj\Debug\_3_project.Properties.Resources.resources
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\obj\Debug\_3_project.ui.m_mealPlan.resources
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\obj\Debug\_3_project.ui.m_memberAdd.resources
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\obj\Debug\_3_project.ui.m_memberInfo.resources
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\obj\Debug\_3_project.ui.m_memberPlan.resources
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\obj\Debug\_3_project.ui.m_todayPlan.resources
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\obj\Debug\3 project.csproj.GenerateResource.cache
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\obj\Debug\3 project.csproj.CoreCompileInputs.cache
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\obj\Debug\3 project.csproj.CopyComplete
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\obj\Debug\3 project.exe
+C:\Users\seong\OneDrive\바탕 화면\dev\헬스장 회원 관리 프로그램\3 project\obj\Debug\3 project.pdb
